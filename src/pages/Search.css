@@ -1,0 +1,20 @@
+.search {
+  margin-top: -10rem;
+  margin-left: 60rem;
+  position: absolute;
+}
+
+.btn {
+  color: white;
+  background-color: rgba(255, 0, 0, 0.663);
+  width: 100px;
+  font-size: 20px;
+  margin-left: 0.3rem;
+}
+.input {
+}
+
+.list {
+  display: grid;
+  margin-left: -10rem;
+}
